@@ -1,0 +1,20 @@
+{
+  "name": "validate-email-mk",
+  "version": "1.0.0",
+  "description": "Utility to validate email ID",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayurkode7/validate-email.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayurkode7/validate-email/issues"
+  },
+  "homepage": "https://github.com/mayurkode7/validate-email#readme"
+}
