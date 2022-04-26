@@ -4,6 +4,8 @@ NPM package to validate email IDs using JavaScript.
 
 # Demo
 
+https://stackblitz.com/edit/js-po8w4b
+
 # installation
 
 command : npm i validate-email-mk

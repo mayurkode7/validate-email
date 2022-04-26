@@ -10,8 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/mayurkode7/validate-email.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "email",
+    "validation",
+    "JavaScript",
+    "form"
+  ],
+  "author": "Mayur Kode",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mayurkode7/validate-email/issues"
